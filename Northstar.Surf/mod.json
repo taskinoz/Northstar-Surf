@@ -1,0 +1,6 @@
+{
+	"Name": "Northstar.Surf",
+	"Description": "CS:GO surf, but in Titanfall 2",
+	"Version": "1.0.0",
+	"LoadPriority": 2,
+}
